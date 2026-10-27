@@ -176,12 +176,12 @@ h1, h2, h3, p { margin-top: 0; }
 .team-panel h2 { margin: 13px 0; font-size: clamp(32px, 4vw, 44px); }
 .team-panel p { margin-bottom: 0; }
 .team-member { display: flex; align-items: center; gap: 17px; padding: 19px; border: 1px solid var(--line); border-radius: 13px; background: var(--surface); }
-.team-photo { width: 62px; height: 62px; display: block; flex: 0 0 auto; border: 2px solid var(--paper-deep); border-radius: 50%; object-fit: cover; object-position: center 40%; }
+.team-photo { width: 64px; height: 64px; display: block; flex: 0 0 64px; border: 2px solid var(--paper-deep); border-radius: 50%; object-fit: cover; object-position: center 45%; }
+.team-member > div { min-width: 0; flex: 1; }
 .team-member h3 { margin: 0 0 4px; font: 500 18px var(--serif); }
 .team-member p { margin: 0 0 7px; font-size: 10px; }
 .pending-label { color: var(--muted); font-size: 9px; }
-.team-member-link { display: inline-flex; gap: 5px; margin-top: 9px; color: var(--green-deep); font-size: 10px; font-weight: 700; }
-.team-member-link:hover { color: var(--green); }
+.team-member-link { width: 100%; max-width: 230px; min-height: 44px; display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 7px; margin-top: 13px; padding: 8px 12px; border-radius: 8px; font-size: 11px; line-height: 1.35; white-space: normal; }
 
 .contact { padding-top: 80px; }
 .contact-grid { display: grid; grid-template-columns: .9fr 1.1fr; gap: clamp(35px, 8vw, 100px); align-items: start; }
