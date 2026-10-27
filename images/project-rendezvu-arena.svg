@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Minh họa giao diện RendezVu Arena</title>
+  <desc id="desc">Bảng điều khiển giải đấu với danh sách trận đấu và nhánh đấu.</desc>
+  <rect width="1200" height="720" rx="28" fill="#e8ece3"/>
+  <rect x="36" y="34" width="1128" height="652" rx="22" fill="#f9f8f2"/>
+  <rect x="36" y="34" width="1128" height="74" rx="22" fill="#30493a"/>
+  <path d="M36 86h1128v22H36z" fill="#30493a"/>
+  <circle cx="76" cy="71" r="17" fill="#d8c5a7"/>
+  <path d="M76 59l4 9 10 3-10 3-4 9-3-9-10-3 10-3 3-9Z" fill="#30493a"/>
+  <text x="108" y="77" fill="#f8f7f0" font-family="Arial,sans-serif" font-size="24" font-weight="700">RENDEZVU ARENA</text>
+  <rect x="918" y="53" width="204" height="36" rx="18" fill="#435f4a"/>
+  <text x="951" y="77" fill="#f3eee4" font-family="Arial,sans-serif" font-size="14">COMMUNITY CUP</text>
+  <rect x="62" y="132" width="238" height="520" rx="16" fill="#edf0e8"/>
+  <text x="92" y="174" fill="#7a867b" font-family="Arial,sans-serif" font-size="13" letter-spacing="2">TOURNAMENT</text>
+  <text x="92" y="212" fill="#27372e" font-family="Arial,sans-serif" font-size="21" font-weight="700">Weekend Arena</text>
+  <rect x="88" y="238" width="186" height="44" rx="10" fill="#dce5d8"/>
+  <circle cx="109" cy="260" r="6" fill="#6e8a68"/><text x="126" y="266" fill="#425b47" font-family="Arial,sans-serif" font-size="14">Overview</text>
+  <text x="126" y="323" fill="#667369" font-family="Arial,sans-serif" font-size="14">Participants</text>
+  <text x="126" y="375" fill="#667369" font-family="Arial,sans-serif" font-size="14">Match operations</text>
+  <text x="126" y="427" fill="#667369" font-family="Arial,sans-serif" font-size="14">Results &amp; evidence</text>
+  <text x="126" y="479" fill="#667369" font-family="Arial,sans-serif" font-size="14">Broadcast overlay</text>
+  <rect x="332" y="132" width="804" height="102" rx="16" fill="#e5e9de"/>
+  <text x="366" y="174" fill="#6f7c70" font-family="Arial,sans-serif" font-size="13" letter-spacing="2">LIVE BRACKET</text>
+  <text x="366" y="210" fill="#26372d" font-family="Arial,sans-serif" font-size="25" font-weight="700">Round of 8</text>
+  <rect x="944" y="164" width="154" height="42" rx="21" fill="#496b55"/>
+  <text x="978" y="191" fill="#fff" font-family="Arial,sans-serif" font-size="14">View bracket</text>
+  <g fill="#fff" stroke="#dbe0d6" stroke-width="2">
+    <rect x="332" y="260" width="352" height="134" rx="14"/><rect x="714" y="260" width="382" height="134" rx="14"/>
+    <rect x="332" y="414" width="352" height="134" rx="14"/><rect x="714" y="414" width="382" height="134" rx="14"/>
+  </g>
+  <g font-family="Arial,sans-serif" font-size="13" fill="#758176">
+    <text x="356" y="291">MATCH 01 · IN PROGRESS</text><text x="738" y="291">MATCH 02 · CONFIRMED</text>
+    <text x="356" y="445">MATCH 03 · UPCOMING</text><text x="738" y="445">MATCH 04 · UPCOMING</text>
+  </g>
+  <g font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="#26372d">
+    <text x="356" y="337">Player A</text><text x="356" y="371">Player B</text>
+    <text x="738" y="337">Player C</text><text x="738" y="371">Player D</text>
+    <text x="356" y="491">Player E</text><text x="356" y="525">Player F</text>
+    <text x="738" y="491">Player G</text><text x="738" y="525">Player H</text>
+  </g>
+  <g font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#496b55">
+    <text x="642" y="337">2</text><text x="642" y="371">1</text><text x="1054" y="337">2</text><text x="1054" y="371">0</text>
+  </g>
+  <rect x="332" y="574" width="804" height="56" rx="12" fill="#f0f1e9"/>
+  <circle cx="360" cy="602" r="6" fill="#81977a"/>
+  <text x="380" y="608" fill="#5a685d" font-family="Arial,sans-serif" font-size="14">Bracket, match reporting and community tools in one place.</text>
+</svg>
